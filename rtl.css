@@ -1,0 +1,13 @@
+/*
+
+Theme Name: AIP
+
+* @package    AIP
+* @copyright  Copyright (c) 2020, Asif Imtious Prome
+* @license    http://opensource.org/licenses/gpl-2.0.php GNU Public License
+*/
+
+body {
+	direction: rtl;
+	unicode-bidi: embed;
+}
